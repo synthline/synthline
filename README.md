@@ -1,3 +1,5 @@
+https://github.com/synthline/synthline/blob/main/resources/banner.png
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synthline&langs_count=10&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
